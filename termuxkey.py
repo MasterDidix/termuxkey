@@ -8,8 +8,8 @@ b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
 print(a+'\t  Shorcut for help you')
-print(b+'\t    Karjok Pangesty')
-print('\t https://t.me/CRABS_ID')
+print(b+'\t    Master Didix')
+print('\t https://t.me/Didik Sujarno')
 print(a+'+'*40)
 print('\nProses..')
 sleep(1)
@@ -34,7 +34,7 @@ sleep(1)
 print(b+'\n[!] Setting up..')
 sleep(2)
 os.system('termux-reload-settings')
-print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi https://t.me/om_karjok untuk requests\natau pertanyaan, atau hubungi https://t.me/CRABS_ID\nThanks :*\n\n')
+print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi https://t.me/Didik Sujarno untuk requests\natau pertanyaan, atau hubungi WA : 085736292046\nThanks :*\n\n')
 
 
 
