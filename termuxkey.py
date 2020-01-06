@@ -1,9 +1,4 @@
-gema "# termuxkey" >> README.md 
-git init 
-git tambahkan README.md 
-git commit -m "komit pertama" 
-git remote add origin https://github.com/MasterDidix/termuxkey.git
- git push -u master asal
+
 import os
 from time import sleep
 
@@ -42,5 +37,5 @@ os.system('termux-reload-settings')
 print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi https://t.me/om_karjok untuk requests\natau pertanyaan, atau hubungi https://t.me/CRABS_ID\nThanks :*\n\n')
 
 
-# ini cuma shortcut buat bantu para nub
-# karjok pangesty
+
+
